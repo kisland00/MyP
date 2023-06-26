@@ -7,10 +7,10 @@ using UnityEngine;
 public class AdsButtonManager : MonoBehaviour
 {
 #if UNITY_ANDROID
-    private string goldID = "ca-app-pub-3690871787222843/2280743785";
-    private string diaID = "ca-app-pub-3690871787222843/5118622126";
+    private string goldID = 
+    private string diaID = 
 #elif UNITY_IPHONE
-  private string _adUnitId = "ca-app-pub-3940256099942544/1712485313";
+  private string _adUnitId = 
 #else
   private string _adUnitId = "unused";
 #endif
