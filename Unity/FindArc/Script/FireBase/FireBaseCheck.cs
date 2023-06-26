@@ -8,7 +8,7 @@ using UnityEngine;
 
 public class FireBaseCheck : MonoBehaviour
 {
-    public string databaseUrl = "https://arrrr-c617e-default-rtdb.asia-southeast1.firebasedatabase.app/";
+    public string databaseUrl = 
     public static FireBaseCheck instance;
     public List<BoxData> boxes = new List<BoxData>();
     public List<BoxData> inRangeBoxes = new List<BoxData>();
@@ -44,10 +44,6 @@ public class FireBaseCheck : MonoBehaviour
         {
             CheckDistance(box);
         }
-        AddTestData(1000,37.57053, 126.9851);
-        AddTestData(1001,37.57032, 126.9851);
-        AddTestData(1002,37.57014, 126.9851);
-        AddTestData(1003,37.57093, 126.9851);
         BoxManager.instance.Init();
         MakeArrow.instance.MakeArrows();
     }
