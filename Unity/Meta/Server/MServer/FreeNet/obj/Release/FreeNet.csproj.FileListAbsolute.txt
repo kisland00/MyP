@@ -1,0 +1,6 @@
+C:\Users\bitcamp\Desktop\Meta_Project_제국아끝났다\MServer\FreeNet\bin\Release\FreeNet.dll
+C:\Users\bitcamp\Desktop\Meta_Project_제국아끝났다\MServer\FreeNet\bin\Release\FreeNet.pdb
+C:\Users\bitcamp\Desktop\Meta_Project_제국아끝났다\MServer\FreeNet\obj\Release\FreeNet.csproj.AssemblyReference.cache
+C:\Users\bitcamp\Desktop\Meta_Project_제국아끝났다\MServer\FreeNet\obj\Release\FreeNet.csproj.CoreCompileInputs.cache
+C:\Users\bitcamp\Desktop\Meta_Project_제국아끝났다\MServer\FreeNet\obj\Release\FreeNet.dll
+C:\Users\bitcamp\Desktop\Meta_Project_제국아끝났다\MServer\FreeNet\obj\Release\FreeNet.pdb
